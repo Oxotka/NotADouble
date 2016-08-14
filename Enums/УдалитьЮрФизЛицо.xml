@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Enum uuid="ced72d2f-ea47-47c4-ac74-fb754a2b71ec">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.УдалитьЮрФизЛицо" category="Ref">
+				<xr:TypeId>6cf603a4-399b-4eed-b5fb-ed4fd6c558b3</xr:TypeId>
+				<xr:ValueId>ea3d7886-88e7-44ac-8ee0-6c79050f5674</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.УдалитьЮрФизЛицо" category="Manager">
+				<xr:TypeId>146542ab-3574-47a2-9f80-963f6ff7b0bb</xr:TypeId>
+				<xr:ValueId>e27d5e8a-05d2-483f-8790-a488a8d42922</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.УдалитьЮрФизЛицо" category="List">
+				<xr:TypeId>9a0d33bf-73f7-404e-9580-f03bea178cf6</xr:TypeId>
+				<xr:ValueId>7ab5f5f3-1241-4717-8590-a2fa1465bda4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>УдалитьЮрФизЛицо</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>
